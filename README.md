@@ -1,8 +1,8 @@
-# Summary: Deepfake Detection
+# Papers: Audio Deepfake Detection
 
- 
+ List of speech synthesis/voice conversion/ detection papers
 
-## 1.List of speech synthesis/voice conversion detection papers
+## 1.Synthesis/Voice conversion
 
 [Toward a Universal Synthetic Speech Spoofing Detection Using Phase Information](https://ieeexplore.ieee.org/document/7029029)(TIFS 2015)
 
@@ -41,3 +41,8 @@
 [Fake Speech Detection Using Residual Network with Transformer Encoder](https://dl.acm.org/doi/10.1145/3437880.3460408)(IH&MMSec 2021)
 
 [SPOOFPRINT: A New Paradigm for Spoofing Attack Detection](https://www.isca-speech.org/archive/odyssey_2020/chen20_odyssey.html)(STL 2021)
+
+## 2. Replay Attack
+
+[Audio Replay Attack Detection Using High-Frequency Features](https://www.isca-speech.org/archive_v0/Interspeech_2017/pdfs/0776.PDF)(Interspeech 2017)
+
