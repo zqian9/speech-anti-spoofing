@@ -1,6 +1,6 @@
 # Papers: Audio Deepfake Detection
 
- List of speech synthesis/voice conversion/ detection papers
+ List of Speech synthesis/Voice conversion/Replay attack detection papers
 
 ## 1.Speech synthesis/Voice conversion
 
