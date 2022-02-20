@@ -2,7 +2,7 @@
 
  List of speech synthesis/voice conversion/ detection papers
 
-## 1.Synthesis/Voice conversion
+## 1.Speech synthesis/Voice conversion
 
 [Toward a Universal Synthetic Speech Spoofing Detection Using Phase Information](https://ieeexplore.ieee.org/document/7029029)(TIFS 2015)
 
