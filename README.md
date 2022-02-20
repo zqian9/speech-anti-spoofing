@@ -2,7 +2,7 @@
 
  List of Speech synthesis/Voice conversion/Replay attack detection papers
 
-## 1.Speech synthesis/Voice conversion
+## 1.Speech Synthesis/Voice Conversion
 
 [Toward a Universal Synthetic Speech Spoofing Detection Using Phase Information](https://ieeexplore.ieee.org/document/7029029)(TIFS 2015)
 
