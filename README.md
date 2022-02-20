@@ -44,5 +44,13 @@
 
 ## 2. Replay Attack
 
-[Audio Replay Attack Detection Using High-Frequency Features](https://www.isca-speech.org/archive_v0/Interspeech_2017/pdfs/0776.PDF)(Interspeech 2017)
+[Audio Replay Attack Detection Using High-Frequency Features](https://www.isca-speech.org/archive_v0/Interspeech_2017/abstracts/0776.html)(Interspeech 2017)
+
+[Audio Replay Attack Detection with Deep Learning Frameworks](https://www.isca-speech.org/archive_v0/Interspeech_2017/abstracts/0360.html)(Interspeech 2017)
+
+[End-To-End Audio Replay Attack Detection Using Deep Convolutional Networks with Attention](https://www.isca-speech.org/archive/interspeech_2018/tom18_interspeech.html)(Interspeech 2018)
+
+[A Survey on Replay Attack Detection for Automatic Speaker V erification (ASV) System](https://ieeexplore.ieee.org/document/8659666)(2018)
+
+[Audio Replay Spoof Attack Detection Using Segment-based Hybrid Feature and DenseNet-LSTM Network](https://ieeexplore.ieee.org/abstract/document/8682573)(ICASSP 2019)
 
