@@ -23,8 +23,7 @@
 17. [Dynamically Mitigating Data Discrepancy with Balanced Focal Loss for Replay Attack Detection](https://arxiv.org/abs/2006.14563) (ICPR 2021)
 18. [Fake Speech Detection Using Residual Network with Transformer Encoder](https://dl.acm.org/doi/10.1145/3437880.3460408) (IH&MMSec 2021)
 19. [One-Class Learning Towards Synthetic Voice Spoofing Detection](https://ieeexplore.ieee.org/document/9417604) (SPL 2021)
-20. Res2Net: [Replay and Synthetic Speech Detection with Res2net Architecture](https://arxiv.org/abs/2010.15006) (ICSAAP 2021)
-21. [SPOOFPRINT: A New Paradigm for Spoofing Attack Detection](https://www.isca-speech.org/archive/odyssey_2020/chen20_odyssey.html) (STL 2021)
+20. [SPOOFPRINT: A New Paradigm for Spoofing Attack Detection](https://www.isca-speech.org/archive/odyssey_2020/chen20_odyssey.html) (STL 2021)
 22. [A New Fusion Strategy for Spoofing Aware Speaker Verification](https://arxiv.org/abs/2202.05253v1) (2022)
 
 ## Ⅱ. Replay Attack
@@ -34,5 +33,10 @@
 3. [End-To-End Audio Replay Attack Detection Using Deep Convolutional Networks with Attention ](https://www.isca-speech.org/archive/interspeech_2018/tom18_interspeech.html) (Interspeech 2018)
 4. [A Survey on Replay Attack Detection for Automatic Speaker V erification (ASV) System](https://ieeexplore.ieee.org/document/8659666) (2018)
 5. [Audio Replay Spoof Attack Detection Using Segment-based Hybrid Feature and DenseNet-LSTM Network](https://ieeexplore.ieee.org/abstract/document/8682573) (ICASSP 2019)
-6. Res2Net: [Replay and Synthetic Speech Detection with Res2net Architecture](https://arxiv.org/abs/2010.15006) (ICSAAP 2021)
+
+## Ⅲ. TTS&VC&RA
+
+1. [Continual Learning for Fake Audio Detection](https://arxiv.org/abs/2104.07286) (2021)
+2. Res2Net: [Replay and Synthetic Speech Detection with Res2net Architecture](https://arxiv.org/abs/2010.15006) (ICASSP 2021)
+3. [语音伪造及检测技术研究综述](http://www.signal.org.cn/CN/abstract/abstract21215.shtml) (2021)
 
