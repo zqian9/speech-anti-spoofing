@@ -2,7 +2,7 @@
 
  List of Speech synthesis/Voice conversion/Replay attack detection papers
 
-### Ⅰ. Survey
+## Ⅰ. Survey
 
 [语音伪造及检测技术研究综述](http://www.signal.org.cn/CN/abstract/abstract21215.shtml) (2021)
 
@@ -58,7 +58,7 @@ CG-Res2Net: [Channel-wise Gated Res2Net: Towards Robust Detection of Synthetic S
 
 [Assessing the Scope of General Countermeasures for Anti-spoofing](https://ieeexplore.ieee.org/document/9053086) (ICASSP 2020)
 
-## Ⅱ. Replay Attack
+## Ⅲ. Replay Attack
 
 1. [Audio Replay Attack Detection Using High-Frequency Features](https://www.isca-speech.org/archive_v0/Interspeech_2017/abstracts/0776.html) (Interspeech 2017)
 2. [Audio Replay Attack Detection with Deep Learning Frameworks](https://www.isca-speech.org/archive_v0/Interspeech_2017/abstracts/0360.html) (Interspeech 2017)
@@ -66,7 +66,7 @@ CG-Res2Net: [Channel-wise Gated Res2Net: Towards Robust Detection of Synthetic S
 4. [A Survey on Replay Attack Detection for Automatic Speaker V erification (ASV) System](https://ieeexplore.ieee.org/document/8659666) (2018)
 5. [Audio Replay Spoof Attack Detection Using Segment-based Hybrid Feature and DenseNet-LSTM Network](https://ieeexplore.ieee.org/abstract/document/8682573) (ICASSP 2019)
 
-## Ⅲ. TTS&VC&RA
+## Ⅳ. TTS&VC&RA
 
 1. [Continual Learning for Fake Audio Detection](https://arxiv.org/abs/2104.07286) (2021)
 2. Res2Net: [Replay and Synthetic Speech Detection with Res2net Architecture](https://arxiv.org/abs/2010.15006) (ICASSP 2021)
