@@ -10,9 +10,5 @@
 
 [List of papers: TTS&VC&RA](https://github.com/zqian9/SoADD/blob/master/Papers.md)
 
-## EER
-
-[EER on ASVspoof 2019](https://github.com/zqian9/SoADD/blob/master/EER.md)
-
 
 
