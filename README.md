@@ -1,4 +1,4 @@
-# Summary: Deepfake Detection in Audio
+# Summary: Audio Deepfake Detection
 
 
 
@@ -8,7 +8,9 @@
 
 ## Papers
 
-[List of papers: TTS&VC&RA](https://github.com/zqian9/SoADD/blob/master/Papers.md)
+[List of papers for ASVspoof 2019: LA&PA](https://github.com/zqian9/SoADD/blob/master/Papers_for_ASVspoof_2019.md)
+
+[List of papers for ASVspoof 2021: LA&PA&DF](https://github.com/zqian9/SoADD/blob/master/Papers_for_ASVspoof_2021.md)
 
 
 
